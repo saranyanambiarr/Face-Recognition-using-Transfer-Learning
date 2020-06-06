@@ -31,8 +31,6 @@ The code is pretty simple and can be used in the identification of anything. I u
 
 ![](Output/Output%203.png)
 
-![](Output/Output%204.png)
-
 ![](Output/Output%205.png)
 
 ![](Output/Output%206.png)
