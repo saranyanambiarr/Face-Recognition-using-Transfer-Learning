@@ -27,8 +27,6 @@ The code is pretty simple and can be used in the identification of anything. I u
 
 ![](Output/Output%201.png)
 
-![](Output/Output%202.png)
-
 ![](Output/Output%203.png)
 
 ![](Output/Output%205.png)
