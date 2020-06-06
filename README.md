@@ -15,3 +15,6 @@ from keras.models import Model
 # Create your own Dataset :
 I created my own Dataset by downloading the images of the actors Dulquer Salmaan, Lili Reinhart and Princess Diana.
 
+I am using Mobilenet as it is lightweight in its architecture. It uses depthwise separable convolutions which basically means it performs a single convolution on each colour channel rather than combining all three and flattening it.
+
+I trained the dataset on Google Colab where it created an h5 file.
